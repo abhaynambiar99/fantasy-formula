@@ -1,0 +1,30 @@
+{
+  "season": 2026,
+  "driverIds": [
+    "albon",
+    "alonso",
+    "antonelli",
+    "bearman",
+    "bortoleto",
+    "bottas",
+    "colapinto",
+    "gasly",
+    "hadjar",
+    "hamilton",
+    "hulkenberg",
+    "lawson",
+    "leclerc",
+    "arvid_lindblad",
+    "norris",
+    "ocon",
+    "piastri",
+    "perez",
+    "russell",
+    "sainz",
+    "stroll",
+    "max_verstappen"
+  ],
+  "rookieDriverIds": [
+    "arvid_lindblad"
+  ]
+}
